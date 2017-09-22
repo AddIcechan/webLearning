@@ -1,0 +1,13 @@
+
+body {
+  margin-top: 60px;
+};
+
+.image-body {
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	border-radius: 5px;
+	
+}
